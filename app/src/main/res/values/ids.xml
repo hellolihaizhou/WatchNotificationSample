@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="call_type_key"></item>
+    <item type="id" name="voice_type_key"></item>
+    <item type="id" name="other_type_key"></item>
+</resources>
